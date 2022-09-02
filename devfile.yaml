@@ -5,7 +5,7 @@ metadata:
 attributes:
   che-theia.eclipse.org/sidecar-policy: mergeImage
   dw.metadata.annotations:
-    che.eclipse.org/che-editor: eclipse/che-theia/latest
+    che.eclipse.org/che-editor: che-incubator/che-code/insiders
     che.eclipse.org/devfile-source: |
       url:
         location: 'https://github.com/jithset/quarkus-hello-world'
@@ -13,7 +13,7 @@ attributes:
         params: 'url=https://github.com/jithset/quarkus-hello-world'
     che.eclipse.org/last-updated-timestamp: '2022-09-02T18:27:20.656Z'
   metadata-name-field: generateName
-  metadata-name-original-value: quarkus-hello-world
+  metadata-name-original-value: quarkus-hello-world1
 projects:
   - git:
       remotes:
