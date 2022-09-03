@@ -13,7 +13,7 @@ attributes:
         params: 'url=https://github.com/jithset/quarkus-hello-world'
     che.eclipse.org/last-updated-timestamp: '2022-09-02T18:27:20.656Z'
   metadata-name-field: generateName
-  metadata-name-original-value: quarkus-hello-world
+  metadata-name-original-value: quarkus-hello-world-1
 projects:
   - git:
       remotes:
