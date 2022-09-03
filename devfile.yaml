@@ -1,6 +1,6 @@
 schemaVersion: 2.1.0
 metadata:
-  name: quarkus-hello-world
+  name: quarkus-hello-world-1
   namespace: admin-che
 attributes:
   che-theia.eclipse.org/sidecar-policy: mergeImage
@@ -13,7 +13,7 @@ attributes:
         params: 'url=https://github.com/jithset/quarkus-hello-world'
     che.eclipse.org/last-updated-timestamp: '2022-09-02T18:27:20.656Z'
   metadata-name-field: generateName
-  metadata-name-original-value: quarkus-hello-world-1
+  metadata-name-original-value: quarkus-hello-world
 projects:
   - git:
       remotes:
